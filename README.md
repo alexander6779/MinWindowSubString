@@ -5,4 +5,4 @@ Have the function MinWindowSubstring(strArr) take the array of strings stored in
 
 Another example: if strArr is ["aabdccdbcacd", "aad"] then the smallest substring of N that contains all of the characters in K is "aabd" which is located at the beginning of the string. Both parameters will be strings ranging in length from 1 to 50 characters and all of K's characters will exist somewhere in the string N. Both strings will only contains lowercase alphabetic characters.
 
-I Have to say that code can be improved.
+I have to say that code can be improved.
